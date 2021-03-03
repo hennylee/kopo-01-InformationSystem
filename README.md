@@ -36,7 +36,9 @@
 
 - 각 브랜치에 별도로 commit하면 해당 브랜치에만 반영된다.
 
-- 협업 시, 컨벤션에 맞는  commit message 작성하는 것이 중요하다.
+- commit내역을 보면 Repository의 branch별로 수정된 과정을 확인할 수 있다. 
+
+- 그래서 협업 시, 컨벤션에 맞는  commit message 작성하는 것이 중요하다.
 
 - commit을 수행하기 전에는 반드시 `git add`하여 stash라는 임시저장소에 추가하는 과정을 거쳐야 한다.
 
