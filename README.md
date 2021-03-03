@@ -1,8 +1,7 @@
 # [한국폴리텍대학/데이터 분석학과] 01_github강의 
 
 
-# 1. 버전관리
-
+# 1. github 기본개념 및 사용법
 
 ## Repository란?
 
@@ -13,6 +12,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/77392444/109835326-78423980-7c86-11eb-8824-2ea36c968692.png)
+
 ## branch란?
 
 
@@ -47,3 +47,7 @@
   * 임시저장소에 추가하기 : `git add 옮길 파일명.확장자` / `git add --all`
   * commit하기 : `git commit -m 커밋 메세지 내용`
 
+
+## 과제 영상
+
+<iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/HlqYi_Nawkk" frameborder="0"></iframe>
