@@ -31,6 +31,7 @@
   * 다른 branch의 변경내역 합치기 : `git merge 병합할 브랜치명`
 
 ## commit이란?
+![image](https://user-images.githubusercontent.com/77392444/109838462-88a7e380-7c89-11eb-9aea-bff878cdec76.png)
 
 - commit이란 Repository에 수정된 내용을 반영하는 과정이다. 
 
