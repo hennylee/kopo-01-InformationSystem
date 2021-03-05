@@ -82,5 +82,3 @@
 
   - 나의 진행 중인 이슈 : resolution is EMPTY and assignee = currentUser()
 
-## 8. Dashboard
-## 9. Confluence
